@@ -36,6 +36,7 @@ Input data must be csv or excel with the following column names
 * Note - the first row is usually skipped so leave it blank 
 
 ### Test data
+Test.csv - uploaded to this repo.
 This test data was mocked up as an example for demonstration purposes
 
 <img width="437" alt="Screen Shot 2023-04-13 at 5 11 45 PM" src="https://user-images.githubusercontent.com/1800604/231883840-819cb05e-8271-4c16-bf3d-d5649893b5d7.png">
