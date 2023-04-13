@@ -19,7 +19,8 @@ Shows drugs at are sensitive in “union” of files
 
 ### After input data is uploaded
 
-<img width="744" alt="image" src="https://user-images.githubusercontent.com/1800604/231880878-d86aa848-7d1b-422c-842d-e4ba14bec71b.png">
+<img width="1163" alt="Screen Shot 2023-04-13 at 5 14 38 PM" src="https://user-images.githubusercontent.com/1800604/231884350-41bb281a-7e09-4eac-859b-7e4a2492ff9e.png">
+
 
 ### Link to shiny app
 
@@ -33,6 +34,9 @@ Input data must be csv or excel with the following column names
 * DRUGBANK_ID
 * DRUGBANK_NAME
 * Note - the first row is usually skipped so leave it blank 
+
+### Test data
+This test data was mocked up as an example for demonstration purposes
 
 <img width="437" alt="Screen Shot 2023-04-13 at 5 11 45 PM" src="https://user-images.githubusercontent.com/1800604/231883840-819cb05e-8271-4c16-bf3d-d5649893b5d7.png">
 
