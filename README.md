@@ -32,6 +32,7 @@ Input data must be csv or excel with the following column names
 * Final EC50
 * DRUGBANK_ID
 * DRUGBANK_NAME
+* Note - the first row is usually skipped so leave it blank 
 
 <img width="437" alt="Screen Shot 2023-04-13 at 5 11 45 PM" src="https://user-images.githubusercontent.com/1800604/231883840-819cb05e-8271-4c16-bf3d-d5649893b5d7.png">
 
