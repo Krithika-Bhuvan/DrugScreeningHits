@@ -23,11 +23,18 @@ Shows drugs at are sensitive in “union” of files
 
 ### Link to shiny app
 
-Link: https://krithikab.shinyapps.io/cdgnet_devel/
+Link: https://krithikab.shinyapps.io/DrugScreeningHits/
 
 ### Input data format
 Input data must be csv or excel with the following column names
+* Sample ID
 * Vendor Catalog
 * Final EC50
+* DRUGBANK_ID
+* DRUGBANK_NAME
+
+<img width="437" alt="Screen Shot 2023-04-13 at 5 11 45 PM" src="https://user-images.githubusercontent.com/1800604/231883840-819cb05e-8271-4c16-bf3d-d5649893b5d7.png">
+
+
 
 
